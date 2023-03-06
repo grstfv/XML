@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+    <hardskills>
+        <skill>testing theory</skill>
+        <skill>test design techniques</skill>
+        <skill>client-server architecture</skill>
+        <skill>HTTP request methods</skill>
+        <skill>SQL</skill>
+        <skill>JSON</skill>
+        <skill>XML</skill>
+        <skill>HTML</skill>
+        <skill>Devtools</skill>
+        <skill>Postman</skill>
+        <skill>CSS</skill>
+    </hardskills>
+    <softskills>
+        <skill>ambition</skill>
+        <skill>focus</skill>
+        <skill>timemenegement</skill>
+        <skill>friendliness</skill>
+        <skill>attention to detail</skill>
+        <skill>communication skills</skill>
+    </softskills>
+</skills>

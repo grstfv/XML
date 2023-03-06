@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<preferences>
+    <favorite_movie>Forrest Gump</favorite_movie>
+    <favorite_actor>Tom Hanks</favorite_actor>
+    <favorite_show>Breaking Bad</favorite_show>
+    <favorite_food>
+	<pizza>pizza</pizza>
+    	<pasta>pasta</pasta>
+    	<fried_chiken>fried chiken</fried_chiken>
+    	<khachapuri>khachapuri</khachapuri>
+    </favorite_food>
+    <fovorite_season>summer</fovorite_season>
+    <country_I_would_like_to_visit>Iceland</country_I_would_like_to_visit>
+</preferences>

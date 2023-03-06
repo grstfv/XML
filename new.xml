@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resume FirstName="Egor" LastName="Astafev">
+	<age>28</age>
+	<country>Georgia</country>
+	<city>Batumi</city>
+	<education>
+		<educational_institution>College of Moscow Technological Institute</educational_institution>
+		<direction_of_training>information systems and programming</direction_of_training>
+	</education>
+	<career_objective>junior QA engineer</career_objective>
+	<desired_salary>700$</desired_salary>
+	<phoneNumbers>
+		<mobile>+995591041739</mobile>
+		<home />
+	</phoneNumbers>
+</resume>
