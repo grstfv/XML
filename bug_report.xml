@@ -1,1 +1,31 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug_report>
+	<Bug_ID>
+		<Id_number>7</Id_number>
+		<Name>CART - Uneable to add new item to my cart</Name>
+		<Reporter>Egor A.</Reporter>
+		<Submit_date>06/03/2023</Submit_date>
+	</Bug_ID>
+	<Bug_overview>
+		<Summary>When my cart contains one item, I can't add a second item using the 'Add to Cart' button on the product page</Summary>
+		<URL>www.example.com/product</URL>
+		<attachment>www.example.com/screenshot</attachment>
+	</Bug_overview>
+	<Environment>
+		<Platform>laptop</Platform>
+		<Operation_system>Ubuntu 22.04</Operation_system>
+		<Browser>Google chrome</Browser>
+	</Environment>
+	<Bug_details>
+		<Steps_to_reproduce>add one item to cart > go to product list > add new item to cart via 'Add to cart' button > go to cart</Steps_to_reproduce>
+		<Expected_result>The cart should contain 2 items</Expected_result>
+		<Actual_result>the cart contains only 1 item</Actual_result>
+		<Description />
+	</Bug_details>
+	<Bug_tracking>
+		<Severity>major</Severity>
+		<Assigned_to />
+		<Priority>high</Priority>
+	</Bug_tracking>
+	<Notes />
+</bug_report>
