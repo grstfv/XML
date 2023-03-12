@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<projects>
+	<project>
+		<number>123</number>
+		<date>12.03.2023</date>
+		<customer>Ivanov</customer>
+		<price>500</price>
+	</project>
+	<project>
+		<number>124</number>
+		<date>12.03.2023</date>
+		<customer>Petrov</customer>
+		<price>500</price>
+	</project>
+</projects>
